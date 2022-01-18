@@ -1,4 +1,4 @@
-# pokedex-dio
+# Pokedex-DIO
 
 ## Project setup
 ```
